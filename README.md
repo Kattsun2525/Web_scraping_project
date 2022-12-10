@@ -1,7 +1,7 @@
 # Netflix Stock Analysis - Web Scraping & EDA Prject
 
 ## Project summary
-This project was initiated by Katsuhiko Maeda (me) and my desire to find out Netflix's current business position in comparison to the past decade and how the investors reacted to the recent price drop. I decided to use stock price as an indicator of Netflix's performance and future earning potential. 
+This project was initiated by Katsuhiko Maeda (me) and my desire to find out Netflix's current business position in comparison to the past decade and how the investors reacted to the recent drop in its stock price. I have conducted research to answer those questions by using Netflix's stock price as an indicator of the company's performance and future earning potential. This project contains instructions on web scraping and Exploratory Data Analysis (EDA) using the Netflix's stock quotes. 
 
 ## Written instructions and files for this project
 In this repository, you will find the python code and the data files I used for scpraping Netflix stock quotes on Yahoo Finance and conducting Exploratory Data Analysis(EDA). 
