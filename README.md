@@ -5,7 +5,6 @@ This project was initiated by Katsuhiko Maeda (myself) and my desire to find out
 
 ## Written instructions and files for this project
 In this repository, you will find the python code and the data files I used for scpraping Netflix stock quotes on Yahoo Finance and conducting Exploratory Data Analysis(EDA). The dataset in this repository contains Netflix's stock quotes in the past 10 years and consists of the following variables.
-<p></p>
 * Open: The price of the stock when the market opened
 * High: Highest stock price traded during that day
 * Low: Lowest stock price traded on that day
