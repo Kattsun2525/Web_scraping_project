@@ -12,7 +12,7 @@ In this repository, you will find the python code and the data files I used for 
 * Volume: The total amount of stocks traded on that day
 * Date (index column) : Stock trade date from October 22th in 2012 to October 17th in 2022.
 <p></p>
-For written instructions of the web scraping process, please check my blog [here](https://kattsun2525.github.io/stat386-projects/2022/10/21/Web-Scraping.html).<p></p>
+For written instructions of the web scraping process, please check my blog [here](https://kattsun2525.github.io/stat386-projects/2022/10/21/Web-Scraping.html).
 For instruction regarding the EDA, please click <a href="[https://micsport13.github.io/stat386-projects/2022/10/18/webscraping-post.html](https://kattsun2525.github.io/stat386-projects/2022/11/22/Netflix-EDA.html)">here</a>.<p></p>
 If you are interested in my final key takeaways in this project, please visit my data story blog post [here](https://kattsun2525.github.io/stat386-projects/2022/12/08/Netflix_Data_Story.html).
 
